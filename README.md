@@ -1,1 +1,1 @@
-# csv-column-extraction
+This script works with a dataset dowloaded from https://catalog.data.gov/dataset/consumer-complaint-database. This was tested on a partial dataset in Windows environment. The result csv file contains 'Complaint ID'(column R, index 17), 'Date recieved'(column A, index 0), 'Product'(column B, index 1), and 'Issue'(column D, index 3).
